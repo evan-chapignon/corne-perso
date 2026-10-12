@@ -1,4 +1,4 @@
-# Origin Corne Keyboard
+# Origin Corne Keyboad
 
 
 <img src="keymap-drawer/corne.svg" >
